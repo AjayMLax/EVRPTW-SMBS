@@ -73,7 +73,7 @@ This heuristic is not designed for optimality but instead serves as a baseline f
 
 ### Optimization Model
 
- A full mathematical formulation with detailed descriptions of all sets, parameters, variables, and constraints is provided in the document [EVRPTW-SMBS Optimization model](EVRPTW_SMBS_Optimization_model.pdf). This provides a direct link between the mathematical specification and the Pyomo implementation. The Results of the optimization model code for each instance can be viewed [here](Solutions/ModelSolutions)
+ A full mathematical formulation with detailed descriptions of all sets, parameters, variables, and constraints is provided in the document [EVRPTW-SMBS Optimization model](EVRPTW_SMBS_Optimization_model.pdf). This provides a direct link between the mathematical specification and the Pyomo implementation. The Results of the optimization model code for each instance can be viewed [here](Solutions/ModelSolutions).
 
 ## Results
 
