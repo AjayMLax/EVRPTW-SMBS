@@ -2,8 +2,8 @@ import pandas as pd
 from math import sqrt
 from pyomo.environ import ConcreteModel, Set, RangeSet, Param, Var, Binary, NonNegativeIntegers, NonNegativeReals, Constraint, Objective, minimize, SolverFactory, value
 
-R1045 = pd.read_csv(".spyder-py3/OR projects/EVRPTW/Data/R104-5.csv")
-R1045v = pd.read_csv(".spyder-py3/OR projects/EVRPTW/Data/R104-5 vehicle.csv")
+R1045 = pd.read_csv("../Dataset/ParsedData/R104-5.csv")
+R1045v = pd.read_csv("../Dataset/ParsedData/R104-5 vehicle.csv")
 
 
 ## Define quantities
@@ -482,3 +482,4 @@ for route in ecv_routes:
 print("BSV Routes:")
 for route in bsv_routes:
     print(f"{' -> '.join(map(str, route))}")
+
