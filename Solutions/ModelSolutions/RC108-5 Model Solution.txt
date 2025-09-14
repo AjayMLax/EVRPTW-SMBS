@@ -1,0 +1,15 @@
+Optimization model solution:
+Total Cost = 682.67858
+Total Number of Vehicles = 4
+Total Distance = 428.30524
+Total ECVs = 2
+Total ECVs Distance = 245.87334
+Total BSVs = 2
+Total BSVs Distance = 182.43189999999998
+Total number of Swapping Services Requested = 3
+ECV Routes:
+0 -> 1 -> 4 -> 0
+0 -> 5 -> 3 -> 2 -> 0
+BSV Routes:
+0 -> 4 -> 0
+0 -> 2 -> 3 -> 0

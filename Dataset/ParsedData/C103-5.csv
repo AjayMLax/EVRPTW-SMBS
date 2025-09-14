@@ -1,0 +1,7 @@
+node_id,node_type,x,y,demand,ready_time,due_date,service_time
+0,Depot,40.0,50.0,0,0,1236,0
+1,Customer,30.0,50.0,10,0,1136,90
+2,Customer,58.0,75.0,20,0,1115,90
+3,Customer,48.0,40.0,10,76,129,90
+4,Customer,40.0,15.0,40,0,1111,90
+5,Customer,25.0,50.0,10,0,1131,90

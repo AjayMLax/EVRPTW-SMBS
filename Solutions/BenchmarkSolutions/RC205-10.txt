@@ -1,0 +1,18 @@
+Instance RC205-10
+
+Total Cost /723.12/
+Total Number of Vehicles /4/
+Total Distance /513.12/
+Total ECVs /3/
+Total ECVs Ditance /395.06/
+Total BSVs /1/
+Total BSVs Distance /118.06/
+Total Number of Swapping Services Requested /3/
+
+ECV Routes:
+0 2 0 
+0 8 5 3 6 0 
+0 10 1 7 9 4 0 
+
+BSV Routes:
+0 3 1 9 0 

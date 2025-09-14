@@ -1,0 +1,16 @@
+NodeID  x     y demand ReadyTime DueDate ServiceTime 
+0      35    35      0         0     230           0 
+1      57    68     15         0     180          10 
+2      41    49     10         0     204          10 
+3      15    30     26         0     199          10 
+4      28    18     26        93     103          10 
+5      20    26      9        83      93          10 
+
+ECV fuel tank capacity /60.63/
+BSV fuel tank capacity /121.26/
+ECV load capacity /200/
+BSV load capacity /5/
+ECV consumption rate /1/
+BSV consumption rate /1/
+Swapping service time /3.00/
+Velocity /1/

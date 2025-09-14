@@ -1,0 +1,24 @@
+Dataset Description
+
+
+This dataset contains all instances used in the paper "The Electric Vehicle Routing Problem with Time Windows and Synchronised Mobile Battery Swapping" published in Transportation Research Part B: Methodological.
+
+The instances of sizes 5, 10, 25 and 100 are given in the folder "Instances" and their best found solutions reported in the paper (either the optimal solution to small sized instances or the best solution found by one of the three proposed matheursitics) are given in the folder "Solutions".
+
+Note that the sequence of visits in the routes given in the solutions are based on the node IDs in the corresponding instance file.
+
+The files are best to be viewed in a WordPad.
+
+==============================================================
+NOTE
+
+As indicated in the paper, the EVRPTW-SMBS test instances developed in the paper are created by applying a few modifications on the EVRPTW instances proposed by Schneider et al. (2014)(Schneider, M., Stenger, A., Goeke, D., 2014. The electric vehicle-routing problem with time windows and recharging stations. Transp. Sci. 48 (4), 500–520). The copy of these instances we have used is available at "https://w1.cirrelt.ca/~errico/evrptw.zip", cited in "Desaulniers, G., Errico, F., Irnich, S., & Schneider, M. (2016). Exact algorithms for electric vehicle-routing problems with time windows. Operations Research, 64(6), 1388-1405". 
+
+==============================================================
+Erratum
+
+In table 5 of the paper the cost of the instance C104-100 under ALG-I, ALG-II and ALG-III has been incorrectly entered and must be 1768.78, 1783.55 and 1695.92, respectively. Please refer to the solution for the instance within the solution folder.
+
+
+
+ 

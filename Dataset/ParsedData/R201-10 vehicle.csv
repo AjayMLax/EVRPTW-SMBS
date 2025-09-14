@@ -1,0 +1,3 @@
+vehicle_type,fuel_capacity,load_capacity,consumption_rate,swap_time,velocity
+ECV,60.63,1000,1,3.0,1
+BSV,121.26,5,1,3.0,1

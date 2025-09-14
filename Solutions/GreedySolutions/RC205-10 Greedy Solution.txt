@@ -1,0 +1,19 @@
+Greedy Algorithm Solution:
+Total cost = 1290.76104
+Total Number of Vehicles = 7
+Total Distance = 773.3254200000001
+Total ECVs = 6
+Total ECVs Distance = 502.4356200000001
+Total BSVs = 1
+Total BSVs Distance = 270.8898
+Total number of Swapping Services Requested = 5
+ECV Routes:
+0 -> 5 -> 3 -> 0
+0 -> 8 -> 10 -> 0
+0 -> 7 -> 1 -> 9 -> 0
+0 -> 2 -> 0
+0 -> 6 -> 0
+0 -> 4 -> 0
+BSV Routes:
+0 -> 3 -> 10 -> 2 -> 9 -> 6 -> 0
+Greedy feasible

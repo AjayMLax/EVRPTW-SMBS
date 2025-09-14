@@ -1,0 +1,17 @@
+Instance R104-5
+
+Total Cost /397.10/
+Total Number of Vehicles /3/
+Total Distance /237.10/
+Total ECVs /2/
+Total ECVs Ditance /157.37/
+Total BSVs /1/
+Total BSVs Distance /79.73/
+Total Number of Swapping Services Requested /2/
+
+ECV Routes:
+0 4 0 
+0 5 3 2 1 0 
+
+BSV Routes:
+0 2 1 0 

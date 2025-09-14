@@ -1,0 +1,17 @@
+Instance R201-10
+
+Total Cost /462.70/
+Total Number of Vehicles /3/
+Total Distance /302.70/
+Total ECVs /2/
+Total ECVs Ditance /234.75/
+Total BSVs /1/
+Total BSVs Distance /67.95/
+Total Number of Swapping Services Requested /3/
+
+ECV Routes:
+0 6 3 9 7 10 0 
+0 8 4 2 5 1 0 
+
+BSV Routes:
+0 9 2 1 0 
