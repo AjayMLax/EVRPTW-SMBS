@@ -1,5 +1,5 @@
 # EVRPTW-SMBS
-Electric Vehicle Routing Problem with Time Windows : Pyomo-Gurobi optimization and heuristic solutions
+Electric Vehicle Routing Problem with Time Windows and Synchronous Mobile Battery Swapping: Pyomo-Gurobi optimization and heuristic solutions
 ## Table Of Contents
 - [Description](#description)
 - [Data](#data)
